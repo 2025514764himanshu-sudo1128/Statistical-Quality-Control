@@ -1,8 +1,5 @@
 # Experiment 05: Statistical Analysis for Quality Control
 
-**Subject:** AI in Mechanical Engineering (ONT406)
-**Sharda University, Greater Noida**
-
 ---
 
 ## Aim
@@ -67,8 +64,8 @@ python -c "import scipy; print('SciPy:', scipy.__version__)"
 ## How to Run
 
 ```bash
-git clone https://github.com/2025514764himanshu-sudo1128/Exp05-Statistical-Quality-Control.git
-cd Exp05-Statistical-Quality-Control
+git clone https://github.com/2025514764himanshu-sudo1128/Statistical-Quality-Control.git
+cd Statistical-Quality-Control
 python quality_control_statistics.py
 ```
 
