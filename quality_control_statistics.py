@@ -2,9 +2,6 @@ import numpy as np
 from scipy import stats
 
 # ============================================================
-# EXPERIMENT 5: Statistical Quality Control
-# Subject: AI in Mechanical Engineering (ONT406)
-# Sharda University
 # ============================================================
 
 class StatisticsError(ValueError):
